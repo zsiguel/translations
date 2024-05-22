@@ -4,7 +4,7 @@
 
 </head>
 <style>
-    .termek{
+    .welcome{
         font-family: Arial, Helvetica, sans-serif;
         font-weight: bolder;
         font-size: 42px;
